@@ -132,6 +132,10 @@ class LinkedList {
     }
 
     insert() {
+
+    }
+
+    reverse() {
         
     }
 }
