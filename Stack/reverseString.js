@@ -11,7 +11,7 @@ function reverseString(str) {
         reversedStr += stack.pop();
     }
 
-    return reversedStr;
+    return reversedStr; 
 }
 
 const reversedString = reverseString("hello world");
